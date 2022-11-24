@@ -10,6 +10,7 @@ with col2:
     content = """
      Olá, me chamo Jordan Cesar e sou programador Python estou cursando Tecnólogo de Redes de Computadores pela Universidade Estácio de Sá
      e cursando o Data Expert da dnc.group onde estudo a parte de Data Science e Marchine Learning.
+     
      Tenho experiência em gestão de projetos, analise de dados e desenvolvimento de aplicações, associando metodologias ágeis com boas práticas de programação.
      Sou apaixonado por programação, entusiastas de temas relacionados a educação e acredito que a revolução seja a prática!
       
@@ -22,12 +23,20 @@ with col2:
      Principais Habilidades adiquiridas:
  
      • Linguagem Python e suas Libraries (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, ...);
+     
      • Linguagem de Banco de Dados Relacionais (MySQL e PostgreSQL) e Não Relacionais (Mongo DB);
+     
      • Ambientes de Programação e Versionamento (VSCode, Jupyter, Pycharm, Git e GitHub);
+     
      • Estatística (Descritiva, Inferencial e Avançado);
-     • Visualização de Dados(Power BI e R) ;
+     
+     • Visualização de Dados(Power BI e R);
+     
      • Data Cleaning, Data Wrangling e Data Storytelling;
+     
      • Machine Learning (Supervisonado, Não Supervisonado, AutoML, ...);
+     
      • Processos e Metodologias Ágeis como CRISP-DM e SCRUM, respectivamente;
+     
       """
     st.write(content)  
