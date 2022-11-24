@@ -42,3 +42,7 @@ with col2:
      
       """
     st.info(content)
+
+content2 = """
+Abaixo, você pode encontrar alguns dos aplicativos que eu construí em Python.Senti-se livre para entrar em contato comigo!
+"""
